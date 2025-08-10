@@ -7,8 +7,8 @@ from io import StringIO
 from datetime import datetime, timedelta
 
 CREDENCIAIS = 'credencial.json'
-PLANILHA_ID = '1H7JV95hbTnah112wt7lOcfIUm2Z2u0uSCQdMB7375Gc'
-EMAIL = 'guilherme1208moraes@gmail.com'
+PLANILHA_ID = 'idplanilha'
+EMAIL = 'SeuEmail'
 
 def pegar_sp500():
     print("Obtendo lista de empresas do S&P 500...")
